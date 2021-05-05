@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 💻 I’m currently learning Python
+- :rocket: I'm a former rocket scientist, now computer scientist
+- 🤝 I'm a Career Coach
+- 💼 Started my career in Human Resources
+- 👩🏻‍🦰 Pronouns: she/her
+- 🎮 I'm a gamer - currently playing Fallout76 + Star Wars Battlefront II
+- 🪴 I'm a lover of plants
+- 🖤 Black Lives Matter
+- ☮️ Stop Asian Hate
+
 <!--
 **pushkatel/pushkatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
