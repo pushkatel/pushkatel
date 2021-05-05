@@ -1,14 +1,11 @@
-### Hi there 👋
+### Hello World 👋
 
-- 💻 I’m currently learning Python
+- 💻 I’m currently learning Javascript, React, Python, and whatever else I need for my projects
 - :rocket: I'm a former rocket scientist, now computer scientist
-- 🤝 I'm a Career Coach
-- 💼 Started my career in Human Resources
-- 👩🏻‍🦰 Pronouns: she/her
-- 🎮 I'm a gamer - currently playing Fallout76 + Star Wars Battlefront II
-- 🪴 I'm a lover of plants
-- 🖤 Black Lives Matter
-- ☮️ Stop Asian Hate
+- :airplane: Studied aerospace engineering and worked at 2 airlines
+- :doughnut: Any donut is appreciated
+- :ski: I am down to ski anytime and anywhere
+
 
 <!--
 **pushkatel/pushkatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
