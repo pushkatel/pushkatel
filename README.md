@@ -5,6 +5,10 @@
 - :airplane: Studied aerospace engineering and worked at 2 airlines
 - :doughnut: Any donut is appreciated
 - :ski: I am down to ski anytime and anywhere
+- :hammer: Currently building: investment club app &  smarthome tool
+- 💬 Ask me about anything with airplanes and space travel
+- 📫 How to reach me: me@kushpatel.org
+- :arrow_down_small: See my projects below
 
 
 <!--
