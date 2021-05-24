@@ -8,6 +8,7 @@
 - :dog: DOGE to the moon
 - :hammer: Currently building: investment club app & an energy efficiency focused smart-home tool
 - 💬 Ask me about anything with airplanes and space travel
+- :memo: https://kushpa.tel
 - 📫 How to reach me: LinkedIn
 - :arrow_down_small: See my projects below
 
