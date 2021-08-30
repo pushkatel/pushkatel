@@ -1,12 +1,12 @@
 ### Hello World 👋
 
-- 💻 I’m currently learning Javascript, React, Python, and whatever else I need for my projects
 - :rocket: I'm a former rocket scientist, now computer scientist
+- 💻 I’m currently learning Javascript, React, Python, and whatever else I need for my projects
 - :airplane: Studied aerospace engineering and worked at 2 airlines
 - :doughnut: Any donut is appreciated
 - :ski: I am down to ski anytime and anywhere
 - :dog: DOGE to the moon
-- :hammer: Currently building: investment club app & an energy efficiency focused smart-home tool
+- :hammer: Currently building: investment manager app & energy efficiency focused smart-home tool
 - 💬 Ask me about anything with airplanes and space travel
 - :memo: https://kushpa.tel
 - 📫 How to reach me: LinkedIn
